@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Countries population filter", "Countries population filter\Countries population filter.pyproj", "{B456CA46-55A3-4E94-82F1-7C694AB6901C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B456CA46-55A3-4E94-82F1-7C694AB6901C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B456CA46-55A3-4E94-82F1-7C694AB6901C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {205EB5B4-4DD0-4547-AEBD-487036DA06CB}
+	EndGlobalSection
+EndGlobal
